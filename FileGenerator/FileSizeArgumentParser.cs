@@ -17,7 +17,8 @@ public static class FileSizeArgumentParser
         long value = int.Parse(match.Groups["value"].Value, CultureInfo.InvariantCulture);
         string unit = match.Groups["unit"].Value.ToUpperInvariant();
 
-        return unit switch
+
+        value = unit switch
         {
             "B" => value,
             "KB" => checked(value * 1024),
@@ -25,5 +26,9 @@ public static class FileSizeArgumentParser
             "GB" => checked(value * 1024 * 1024 * 1024),
             _ => throw new NotSupportedException("Unsupported unit")
         };
+
+        if (value < Constants.LowestFileSize)
+            throw new FormatException($"Please enter file size at least {Constants.LowestFileSize} bytes or more");
+        return value;
     }
 }

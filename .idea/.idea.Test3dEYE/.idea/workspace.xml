@@ -10,7 +10,71 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f66fc152-69c8-4630-9c01-c61b7c859163" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Test3dEYE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Test3dEYE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/net8.0/FileGenerator.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Build/net8.0/FileGenerator.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/net8.0/FileGenerator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Build/net8.0/FileGenerator.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/net8.0/FileGenerator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Build/net8.0/FileGenerator.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/net8.0/FileGenerator.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Build/net8.0/FileGenerator.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/net8.0/Sorter.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Build/net8.0/Sorter.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/net8.0/Sorter.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Build/net8.0/Sorter.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/net8.0/Sorter.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Build/net8.0/Sorter.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/net8.0/Sorter.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Build/net8.0/Sorter.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileGenerator/FileSizeArgumentParser.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FileGenerator/FileSizeArgumentParser.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileGenerator/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FileGenerator/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FileGenerator/TextFileGenerator/Constants.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FileGenerator/TextFileGenerator/Constants.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileGenerator/obj/Debug/net8.0/FileGenerator.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FileGenerator/obj/Debug/net8.0/FileGenerator.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileGenerator/obj/Debug/net8.0/FileGenerator.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FileGenerator/obj/Debug/net8.0/FileGenerator.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileGenerator/obj/Debug/net8.0/FileGenerator.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FileGenerator/obj/Debug/net8.0/FileGenerator.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileGenerator/obj/Debug/net8.0/FileGenerator.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FileGenerator/obj/Debug/net8.0/FileGenerator.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileGenerator/obj/Debug/net8.0/FileGenerator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FileGenerator/obj/Debug/net8.0/FileGenerator.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileGenerator/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/FileGenerator/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileGenerator/obj/Debug/net8.0/ref/FileGenerator.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FileGenerator/obj/Debug/net8.0/ref/FileGenerator.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileGenerator/obj/Debug/net8.0/refint/FileGenerator.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FileGenerator/obj/Debug/net8.0/refint/FileGenerator.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileGenerator/obj/Release/net8.0/FileGenerator.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FileGenerator/obj/Release/net8.0/FileGenerator.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileGenerator/obj/Release/net8.0/FileGenerator.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FileGenerator/obj/Release/net8.0/FileGenerator.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileGenerator/obj/Release/net8.0/FileGenerator.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FileGenerator/obj/Release/net8.0/FileGenerator.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileGenerator/obj/Release/net8.0/FileGenerator.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FileGenerator/obj/Release/net8.0/FileGenerator.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileGenerator/obj/Release/net8.0/FileGenerator.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FileGenerator/obj/Release/net8.0/FileGenerator.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileGenerator/obj/Release/net8.0/FileGenerator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FileGenerator/obj/Release/net8.0/FileGenerator.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileGenerator/obj/Release/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/FileGenerator/obj/Release/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileGenerator/obj/Release/net8.0/ref/FileGenerator.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FileGenerator/obj/Release/net8.0/ref/FileGenerator.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileGenerator/obj/Release/net8.0/refint/FileGenerator.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FileGenerator/obj/Release/net8.0/refint/FileGenerator.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorter/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sorter/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorter/obj/Debug/net8.0/Sorter.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sorter/obj/Debug/net8.0/Sorter.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorter/obj/Debug/net8.0/Sorter.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Sorter/obj/Debug/net8.0/Sorter.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorter/obj/Debug/net8.0/Sorter.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sorter/obj/Debug/net8.0/Sorter.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorter/obj/Debug/net8.0/Sorter.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Sorter/obj/Debug/net8.0/Sorter.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorter/obj/Debug/net8.0/Sorter.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Sorter/obj/Debug/net8.0/Sorter.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorter/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Sorter/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorter/obj/Debug/net8.0/ref/Sorter.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Sorter/obj/Debug/net8.0/ref/Sorter.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorter/obj/Debug/net8.0/refint/Sorter.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Sorter/obj/Debug/net8.0/refint/Sorter.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorter/obj/Release/net8.0/Sorter.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sorter/obj/Release/net8.0/Sorter.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorter/obj/Release/net8.0/Sorter.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Sorter/obj/Release/net8.0/Sorter.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorter/obj/Release/net8.0/Sorter.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Sorter/obj/Release/net8.0/Sorter.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorter/obj/Release/net8.0/Sorter.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sorter/obj/Release/net8.0/Sorter.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorter/obj/Release/net8.0/Sorter.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Sorter/obj/Release/net8.0/Sorter.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorter/obj/Release/net8.0/Sorter.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Sorter/obj/Release/net8.0/Sorter.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorter/obj/Release/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Sorter/obj/Release/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorter/obj/Release/net8.0/ref/Sorter.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Sorter/obj/Release/net8.0/ref/Sorter.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorter/obj/Release/net8.0/refint/Sorter.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Sorter/obj/Release/net8.0/refint/Sorter.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test3dEYE.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Test3dEYE.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_Tests" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_Tests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/net8.0/FileGenerator.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/net8.0/FileGenerator.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/net8.0/FileGenerator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/net8.0/FileGenerator.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/net8.0/FileGenerator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/net8.0/FileGenerator.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/net8.0/Sorter.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/net8.0/Sorter.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/net8.0/Sorter.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/net8.0/Sorter.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/net8.0/Sorter.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/net8.0/Sorter.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/net8.0/Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/net8.0/Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/net8.0/Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/net8.0/Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/net8.0/Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/net8.0/Tests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/net8.0/Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/net8.0/Tests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/net8.0/Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/net8.0/Tests.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/net8.0/Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/net8.0/Tests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/net8.0/Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/net8.0/Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/net8.0/Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/net8.0/Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/net8.0/ref/Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/net8.0/ref/Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/net8.0/refint/Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/net8.0/refint/Tests.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,20 +106,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.FileGenerator.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Sorter.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.FileGenerator.executor": "Run",
+    ".NET Project.Sorter.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Project.Sorter">
     <configuration name="FileGenerator" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -129,6 +193,7 @@
       <workItem from="1748846341641" duration="6937000" />
       <workItem from="1748854372434" duration="36940000" />
       <workItem from="1748931699286" duration="1099000" />
+      <workItem from="1748933757917" duration="1768000" />
     </task>
     <servers />
   </component>

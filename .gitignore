@@ -7,3 +7,7 @@ TestProject/obj
 TestProject/bin
 Tests/bin
 Tests/obj
+Tests/obj
+Sorter/obj
+Tests/bin
+FileGenerator/obj

@@ -2,6 +2,7 @@
 
 public class Constants
 {
+    public const int LowestFileSize = 200;
     public const int MaxIndexValue = 1_000_000_000;
     public const int MaxPhraseLength = 50;
 
