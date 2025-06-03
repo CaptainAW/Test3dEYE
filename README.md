@@ -14,6 +14,7 @@ Efficient use of resources when processing large files: processing a 5 GB file c
 The project is built for Windows. Therefore, it is recommended to use PowerShell for commands
 Use <global_path> - global path to folder  <global_path_to_project_folder>/Build/net8.0
 
+
 ### FileGenerator
 
 ```bash
