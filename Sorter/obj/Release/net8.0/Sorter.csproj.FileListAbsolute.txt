@@ -1,0 +1,14 @@
+D:\DotnetProjects\Test3dEye\Test3dEYE\Build\net8.0\Sorter.exe
+D:\DotnetProjects\Test3dEye\Test3dEYE\Build\net8.0\Sorter.deps.json
+D:\DotnetProjects\Test3dEye\Test3dEYE\Build\net8.0\Sorter.runtimeconfig.json
+D:\DotnetProjects\Test3dEye\Test3dEYE\Build\net8.0\Sorter.dll
+D:\DotnetProjects\Test3dEye\Test3dEYE\Build\net8.0\Sorter.pdb
+D:\DotnetProjects\Test3dEye\Test3dEYE\Sorter\obj\Release\net8.0\Sorter.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetProjects\Test3dEye\Test3dEYE\Sorter\obj\Release\net8.0\Sorter.AssemblyInfoInputs.cache
+D:\DotnetProjects\Test3dEye\Test3dEYE\Sorter\obj\Release\net8.0\Sorter.AssemblyInfo.cs
+D:\DotnetProjects\Test3dEye\Test3dEYE\Sorter\obj\Release\net8.0\Sorter.csproj.CoreCompileInputs.cache
+D:\DotnetProjects\Test3dEye\Test3dEYE\Sorter\obj\Release\net8.0\Sorter.dll
+D:\DotnetProjects\Test3dEye\Test3dEYE\Sorter\obj\Release\net8.0\refint\Sorter.dll
+D:\DotnetProjects\Test3dEye\Test3dEYE\Sorter\obj\Release\net8.0\Sorter.pdb
+D:\DotnetProjects\Test3dEye\Test3dEYE\Sorter\obj\Release\net8.0\Sorter.genruntimeconfig.cache
+D:\DotnetProjects\Test3dEye\Test3dEYE\Sorter\obj\Release\net8.0\ref\Sorter.dll
