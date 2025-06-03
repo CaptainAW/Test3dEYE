@@ -21,6 +21,7 @@ Use <global_path> - global path to folder  <global_path_to_project_folder>/Build
 <global_path>/FileGenerator.exe <global_path>/<unsorted_file_name.txt> <file_size>
 ```
 file size can be entered in format:
+
 nB (Bytes)  
 nKB (KiloBytes)  
 nMB (MegaBytes)  
