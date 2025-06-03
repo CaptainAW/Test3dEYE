@@ -1,0 +1,9 @@
+/bin
+/obj
+Build
+FileGenerator/obj
+Sorter/obj
+TestProject/obj
+TestProject/bin
+Tests/bin
+Tests/obj
