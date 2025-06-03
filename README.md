@@ -6,6 +6,10 @@ The task is described in the file "Test Task Sorting v.03" placed in the top fol
 FileGenerator - generates an unsorted file of a given size at a given path.
 Sorter - sorts the file received from FileGenerator and saves the result to a new file with given name.
 
+The project uses a simple benchmark in the form of measuring the execution time of key parts of the logic.
+Unit tests nUnit are used (Test project).
+Efficient use of resources when processing large files: processing a 5 GB file consumes about 200 MB of RAM.
+
 ## Instructions for use
 
 Use <global_path> - global path to folder  <global_path_to_project_folder>/Build/net8.0
@@ -40,4 +44,4 @@ For example use this command:
 D:/FileSorter/Build/net8.0/Sorter.exe D:/FileSorter/Build/net8.0/unsorted.txt D:/FileSorter/Build/net8.0/sorted.txt
 ```
 
-You could avoid to add global path in commands by adding <global_path_to_project_folder>/Build/net8.0 folder to your system Path variables.  
+You could avoid to add global path in commands by adding <global_path_to_project_folder>/Build/net8.0 folder to your system Path variables.
